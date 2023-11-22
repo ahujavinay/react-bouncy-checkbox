@@ -1,0 +1,12 @@
+# Node Modules
+**/node_modules
+node_modules
+# Example 
+example
+example-manual-state
+# Assets
+Assets
+assets
+
+.husky
+.github
